@@ -1,0 +1,26 @@
+{
+  "name"       : "mibexx/fizzbuzz",
+  "description": "FizzBuzz Solved",
+  "license"    : "MIT",
+  "authors"    : [
+    {
+      "name" : "Mike Bertram",
+      "email": "contact@mibexx.de"
+    }
+  ],
+  "autoload"   : {
+    "psr-4": {
+      "Mibexx\\FizzBuzz\\": "src/"
+    },
+    "psr-0": {
+      "Mibexx\\FizzBuzzTest\\": "tests/unit/"
+    }
+  },
+  "require"    : {
+    "codeception/codeception-progress-reporter": "^1.0.9"
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*",
+    "symfony/var-dumper"         : "*"
+  }
+}
