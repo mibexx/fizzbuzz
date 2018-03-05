@@ -1,0 +1,7 @@
+{
+  "name": "FizzBuzz solution",
+  "description": "A SOLID solution for FizzBuzz",
+  "repository": "https://github.com/mibexx/fizzbuzz",
+  "logo": "https://dry-reef-81185.herokuapp.com/php.png",
+  "keywords": ["php"]
+}
