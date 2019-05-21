@@ -1,4 +1,4 @@
-FuzzBuzz
+FizzBuzz
 =========
 
 ***Solved this task:***
